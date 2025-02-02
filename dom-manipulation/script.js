@@ -262,4 +262,4 @@ document.addEventListener("DOMContentLoaded", () => {
     populateCategories(); // Populate categories on load
 });
 
-//End!!!
+//END!!!
