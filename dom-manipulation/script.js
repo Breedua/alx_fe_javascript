@@ -261,3 +261,5 @@ document.addEventListener("DOMContentLoaded", () => {
     showRandomQuote();
     populateCategories(); // Populate categories on load
 });
+
+//End!!!
